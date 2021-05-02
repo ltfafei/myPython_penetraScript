@@ -1,0 +1,11 @@
+admin
+root
+adminroot
+admin888
+toor
+123456
+pass123456
+passwd
+password
+passadmin
+adminpass
